@@ -4,4 +4,4 @@ This repo contains models used in the paper: **Transfer Learning Across Heteroge
 
 Gain in time is recorded here: [gain in time](https://github.com/xintin/TransferLearn_HetFeat_TenProgGen/wiki/Gain-In-Time-To-Tune:-Baseline-vs-Pruned-Dataset)
 
-We will be keep updating this repo as and when required. 
+We will be updating this repo as and when required. 
